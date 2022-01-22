@@ -19,7 +19,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 ### Links
 
 - Solution URL: https://github.com/NitiMittal/QR-component-frontend.io
-- Live Site URL:
+- Live Site URL: https://qr-demo.netlify.app/
 
 ## My process
 
